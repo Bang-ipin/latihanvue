@@ -1,0 +1,33 @@
+#app{
+    font-family: 'Comfortaa', cursive;
+}
+.router-link-exact-active{
+    font-weight: 600;
+}
+.btn-success,.badge-success{
+    background-color: #0AC67C !important;
+}
+.card-product{
+    border-radius: 15px;
+}
+.card-product img{
+    width: 200px;
+    height:250px;
+}
+.card-img-top{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.breadcrumb{
+    background-color: transparent;
+    padding: 0;
+}
+.breadcrumb-item.active{
+    font-weight: bold;
+    color: #000;
+}
+.img-fluid{
+    border-radius: 15px;
+    width: 100%;
+    height: 350px;
+}
